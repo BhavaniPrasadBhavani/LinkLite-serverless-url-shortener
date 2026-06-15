@@ -14,7 +14,7 @@ https://www.amazon.in/?&adgrpid=155259813593&hvpone=&hvptwo=&hvadid=809000348074
 
 Short URL:
 
-https://linklite.lovable.app/abc123
+https://hqgmempkm4.execute-api.ap-south-1.amazonaws.com/s6DCP6
 
 ## Features
 
